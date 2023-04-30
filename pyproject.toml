@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "nonebot-plugin-bottle-test"
+name = "nonebot_plugin_bottle_test"
 version = "1.0.0.4"
 description = "Bottle post plugin in Nonebot"
 authors = ["Todysheep <todysheep@163.com>"]
