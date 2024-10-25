@@ -7,11 +7,7 @@ license = "GNU GPLv3"
 readme = "README.md"
 homepage = "https://github.com/Todysheep/nonebot_plugin_bottle"
 repository = "https://github.com/Todysheep/nonebot_plugin_bottle"
-
-[tool.poetry.packages]
-packages = [
-    { include = "nonebot_plugin_bottle" }
-]
+packages = [{include = "nonebot_plugin_bottle"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"
